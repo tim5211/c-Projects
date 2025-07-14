@@ -1,0 +1,33 @@
+Wallpaper Changer
+
+A small, dark-themed Windows tool to apply wallpapers and themes. 
+
+Supports .bmp, .jpg, .png wallpapers and .theme, .themepack, and .deskthemepack files.
+Just run the app, choose a file, and click apply.
+
+Tiny EXE (13.5 KB)
+
+Optimized for size — fast to download, and no installation required.
+
+
+No External Dependencies
+
+Built with native Windows support; no third-party libraries or frameworks required.
+
+
+🖥️ System Requirements
+
+Windows 7, 8, 10, or 11
+
+
+Requires .NET Framework 4.8.1.
+
+        
+
+Skills and deliverables
+C#
+.NET Framework
+Desktop Application
+Wallpaper
+Theme Installation
+Published on May 11, 2025 
